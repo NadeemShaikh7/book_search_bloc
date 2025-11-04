@@ -1,4 +1,4 @@
-# book_saerch_bloc
+# book_search_bloc
 
 A new Flutter project.
 
