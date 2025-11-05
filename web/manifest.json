@@ -1,6 +1,6 @@
 {
-    "name": "book_saerch_bloc",
-    "short_name": "book_saerch_bloc",
+    "name": "book_search_bloc",
+    "short_name": "book_search_bloc",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

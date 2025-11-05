@@ -1,5 +1,5 @@
-import 'package:book_saerch_bloc/data/models/book_model.dart';
-import 'package:book_saerch_bloc/domain/usecases/save_book.dart';
+import 'package:book_search_bloc/data/models/book_model.dart';
+import 'package:book_search_bloc/domain/usecases/save_book.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 import '../../domain/entities/book.dart';

@@ -1,4 +1,4 @@
-import 'package:book_saerch_bloc/data/models/book_model.dart';
+import 'package:book_search_bloc/data/models/book_model.dart';
 
 import '../repositories/book_repository.dart';
 

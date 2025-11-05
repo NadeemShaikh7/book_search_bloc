@@ -1,4 +1,4 @@
-package com.example.book_saerch_bloc
+package com.example.book_search_bloc
 
 import io.flutter.embedding.android.FlutterActivity
 
